@@ -1,0 +1,18 @@
+news_website/
+├── admin/
+│   ├── index.php         # Admin login
+│   ├── dashboard.php     # Admin panel
+│   ├── posts.php         # Manage posts
+│   ├── ads.php           # Manage ads
+│   ├── logout.php        # Logout
+├── includes/
+│   ├── config.php        # Database connection
+│   ├── header.php        # Common header
+│   ├── footer.php        # Common footer
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+├── index.php             # Homepage
+├── single.php            # Single news page
+├── db.sql                # Database schema
